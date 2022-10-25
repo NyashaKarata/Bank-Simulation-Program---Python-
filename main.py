@@ -14,7 +14,7 @@ def main() -> None:
 def menu() -> None:
     print("====================================")
     print("==============   ABC Limited  ==============")
-    print("====================================")
+    print("===================================")
 
     print('Select an option: ')
     print('1 - Create Account')
